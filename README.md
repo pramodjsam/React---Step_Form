@@ -1,4 +1,4 @@
-# React Recipe App
+# React Step Form
 A step form created using React.Js
 
 ---
